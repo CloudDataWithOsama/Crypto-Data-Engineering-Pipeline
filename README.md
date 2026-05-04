@@ -45,12 +45,6 @@ Pehle zaroori libraries install karein:
 pip install selenium beautifulsoup4 pandas webdriver-manager
 ```
 
-**2. WebDriver Setup (Chrome):**
-Is project mein **`webdriver-manager`** istemal kiya gaya hai. Iska faida ye hai ke:
-*   Aapko manually `chromedriver.exe` download karne ki zaroorat nahi hai.
-*   Ye library khud hi aapke Chrome browser ka version check karti hai aur uske mutabiq sahi driver download kar ke set kar deti hai.
-*   **Prerequisite:** Sirf aapke system mein **Google Chrome** browser installed hona chahiye.
-
 ---
 
 ### 💡 Author's Note
