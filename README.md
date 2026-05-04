@@ -2,6 +2,8 @@
 
 A comprehensive data engineering project that scrapes real-time cryptocurrency data from CoinMarketCap using a hybrid **Selenium + BeautifulSoup** approach and processes it through a **Pandas** transformation pipeline.
 
+![alt text](image.png)
+
 ## 📌 Project Overview
 Scraping modern financial websites is challenging due to **Lazy Loading** (content only loads as you scroll). This project bypasses those limitations to capture a full dataset of the top 200 cryptocurrencies and transforms raw text into actionable financial insights.
 
