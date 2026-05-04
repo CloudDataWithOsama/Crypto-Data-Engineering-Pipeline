@@ -1,5 +1,3 @@
----
-
 # 🪙 CoinMarketCap Dynamic Scraper & Data Pipeline
 
 A comprehensive data engineering project that scrapes real-time cryptocurrency data from CoinMarketCap using a hybrid **Selenium + BeautifulSoup** approach and processes it through a **Pandas** transformation pipeline.
