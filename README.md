@@ -1,7 +1,3 @@
-Certainly! A **README.md** is the face of your project. It explains what the project does, how it works, and the technical value it provides.
-
-Based on our work and the files you have created, here is a professional README for your GitHub or portfolio:
-
 ---
 
 # 🪙 CoinMarketCap Dynamic Scraper & Data Pipeline
